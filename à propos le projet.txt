@@ -1,0 +1,9 @@
+Ce projet est réalisé par les élèves ingénieurs en GI1S3:
+ -Tayari Kais
+ -Firas Fendri
+Le projet contient:
+	-5 pages web modélisées par:
+		-5 documents .HTML.
+		-4 documents .CSS.
+		-4 documents .JS.
+Chaque type d'extension est mis dans un dossier approprié.
